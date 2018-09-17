@@ -1375,6 +1375,9 @@ h3#comments {
 .section .column.fourth{
   width: 25%;
 }
+alt="GitHub"{
+  postion: center;
+}
 
 .section.coder-cred{
   margin-left: 20px;
